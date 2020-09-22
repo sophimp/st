@@ -1,3 +1,3 @@
 
-git push origin master
-git push github master
+git push origin --all
+git push github --all
